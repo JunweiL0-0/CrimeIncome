@@ -1,0 +1,14 @@
+Package: CrimeIncomeDf
+Type: Package
+Title: Crime and income dataset used to analyze the relationship between income and crime
+Version: 0.1.0
+Author: DHRL [aut, cre]
+Maintainer: DHRL <DHRL@uclive.ac.nz>
+Description: Will update later
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Depends: R (>= 2.10)
+RoxygenNote: 7.1.2
+Imports: 
+    tibble
