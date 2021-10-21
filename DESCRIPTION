@@ -1,4 +1,4 @@
-Package: CrimeIncomeDf
+Package: CrimeIncome
 Type: Package
 Title: Crime and income dataset used to analyze the relationship between income and crime
 Version: 0.1.0
